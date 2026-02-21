@@ -35,11 +35,11 @@ A collection of modern, responsive mock websites created for independent cafés.
 
 ---
 
-### 🎵 Music Record Rental System
-A Python-based rental management application built as part of an introductory programming module, demonstrating object-oriented programming and clean program structure.
+### 🎵 Performance Hall Ticketing System
+A Java-based ticketing management application built as part of an introductory programming module, demonstrating object-oriented programming and clean program structure.
 
-**Tech stack:** Python  
-🔗 View repository: *(add GitHub link)*
+**Tech stack:** Java  
+🔗 View repository:(https://github.com/lanagodfrey06/Performance-Hall-Ticket-System.git)
 
 ---
 
