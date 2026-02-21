@@ -31,7 +31,7 @@ A collection of modern, responsive mock websites created for independent cafés.
 
 **Focus:** UX design, accessibility, responsive layouts  
 **Tech stack:** HTML, CSS, Bootstrap  
-🔗 View repository: *(add GitHub link)*
+🔗 View repository: https://github.com/lanagodfrey06/Modern-cafe-website-mock.git
 
 ---
 
@@ -39,7 +39,7 @@ A collection of modern, responsive mock websites created for independent cafés.
 A Java-based ticketing management application built as part of an introductory programming module, demonstrating object-oriented programming and clean program structure.
 
 **Tech stack:** Java  
-🔗 View repository:(https://github.com/lanagodfrey06/Performance-Hall-Ticket-System.git)
+🔗 View repository: https://github.com/lanagodfrey06/Performance-Hall-Ticket-System.git
 
 ---
 
