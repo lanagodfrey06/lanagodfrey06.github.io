@@ -14,7 +14,7 @@ Alongside my academic work, I like creating personal projects that solve everyda
 A full-stack, responsive healthcare website developed as part of a web programming module. The project integrates front-end design with backend functionality and database interaction.
 
 **Tech stack:** HTML, CSS, JavaScript, PHP, SQL  
-🔗 View repository: *(add GitHub link)*
+
 
 ---
 
@@ -22,7 +22,7 @@ A full-stack, responsive healthcare website developed as part of a web programmi
 A relational database system designed to manage prescriptions, stock, and patient information. This project was informed by real-world pharmacy workflows, drawing on my experience as a Pharmacy Assistant.
 
 **Focus:** Database design, SQL queries, real-world data modelling  
-🔗 View repository: *(add GitHub link)*
+
 
 ---
 
